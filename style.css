@@ -1,3 +1,42 @@
+.container{
+    margin-bottom: 100px;
+}
+
 .orange-background{
   background-color: #fceae8;
+  border-radius: 10px;
+}
+.text-primary{
+    color: #ff136f;
+}
+.carousel-item{
+padding: 20px 40px;
+}
+.cat1{
+  background-color: orange;
+}
+.cat2{
+  background-color: palevioletred;
+}
+.cat3{
+  background-color: blue;
+}
+.cat1, .cat2, .cat3{
+  padding: 10px 30px;
+  color: aliceblue;
+  border-radius: 10px;
+}
+.catagories img{
+  width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px gray;
+
+}
+#desable{
+  height: 300px;
+}
+footer{
+  text-align: center;
 }
